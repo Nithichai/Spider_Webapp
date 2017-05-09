@@ -1,0 +1,778 @@
+{
+    "caf": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "cant": {
+        "https://us.battle.net/account": {
+            "used": 40, 
+            "word": 1
+        }
+    }, 
+    "caption": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 2
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 2
+        }
+    }, 
+    "capture": {
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 8, 
+            "word": 1
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }, 
+        "https://www.youtube.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "cards": {
+        "http://blizzard.com": {
+            "used": 34, 
+            "word": 2
+        }, 
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 3
+        }, 
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 2
+        }
+    }, 
+    "cardsubtitle": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 4
+        }
+    }, 
+    "cardsubtitleprimary": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "cardtitleprimary": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "cases": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 4
+        }
+    }, 
+    "causing": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }
+    }, 
+    "cbf": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "cbg": {
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 2
+        }
+    }, 
+    "cc": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 18
+        }
+    }, 
+    "ccfe": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "center": {
+        "http://blizzard.com": {
+            "used": 34, 
+            "word": 1
+        }, 
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 12
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 1
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }
+    }, 
+    "championship": {
+        "http://blizz.ly/OWC2017": {
+            "used": 2, 
+            "word": 4
+        }, 
+        "http://blizz.ly/OWU2017": {
+            "used": 2, 
+            "word": 4
+        }, 
+        "https://battle.net/shop": {
+            "used": 29, 
+            "word": 4
+        }, 
+        "https://blizzard.gamespress.com": {
+            "used": 4, 
+            "word": 1
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 9, 
+            "word": 4
+        }, 
+        "https://overwatchleague.com/en-us": {
+            "used": 29, 
+            "word": 2
+        }, 
+        "https://playoverwatch.com": {
+            "used": 38, 
+            "word": 4
+        }, 
+        "https://playoverwatch.com/en-us": {
+            "used": 0, 
+            "word": 4
+        }, 
+        "https://playoverwatch.com/en-us/worldcup": {
+            "used": 23, 
+            "word": 4
+        }, 
+        "https://us.battle.net/account/download": {
+            "used": 12, 
+            "word": 4
+        }, 
+        "https://us.battle.net/d3": {
+            "used": 27, 
+            "word": 2
+        }, 
+        "https://us.battle.net/feedback": {
+            "used": 10, 
+            "word": 4
+        }, 
+        "https://us.battle.net/games/classic": {
+            "used": 18, 
+            "word": 4
+        }, 
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 4
+        }, 
+        "https://us.battle.net/hearthstone/en-us/esports": {
+            "used": 16, 
+            "word": 15
+        }, 
+        "https://us.battle.net/heroes": {
+            "used": 12, 
+            "word": 4
+        }, 
+        "https://us.battle.net/support": {
+            "used": 37, 
+            "word": 4
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 25, 
+            "word": 5
+        }, 
+        "https://worldofwarcraft.com": {
+            "used": 44, 
+            "word": 4
+        }
+    }, 
+    "chance": {
+        "https://us.battle.net/d3": {
+            "used": 27, 
+            "word": 3
+        }, 
+        "https://www.youtube.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }, 
+        "https://www.youtube.com/watch": {
+            "used": 12, 
+            "word": 1
+        }
+    }, 
+    "changed": {
+        "https://us.battle.net/heroes": {
+            "used": 12, 
+            "word": 1
+        }
+    }, 
+    "channel": {
+        "https://www.youtube.com/watch": {
+            "used": 12, 
+            "word": 1
+        }
+    }, 
+    "characters": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 2
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }
+    }, 
+    "charged": {
+        "http://blizz.ly/OWU2017": {
+            "used": 2, 
+            "word": 1
+        }, 
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 8, 
+            "word": 1
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }
+    }, 
+    "charlie": {
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }, 
+        "https://www.youtube.com/watch": {
+            "used": 12, 
+            "word": 4
+        }
+    }, 
+    "charliehoyle": {
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }
+    }, 
+    "chase": {
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 25, 
+            "word": 1
+        }
+    }, 
+    "chat": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 5
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "check": {
+        "http://blizzard.com": {
+            "used": 34, 
+            "word": 1
+        }, 
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 2
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 9, 
+            "word": 1
+        }, 
+        "https://us.battle.net/sc2": {
+            "used": 27, 
+            "word": 2
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 25, 
+            "word": 1
+        }
+    }, 
+    "cheetah": {
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 3, 
+            "word": 1
+        }
+    }, 
+    "chief": {
+        "http://blizz.ly/OWU2017": {
+            "used": 2, 
+            "word": 1
+        }
+    }, 
+    "cinematic": {
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 2
+        }, 
+        "https://www.youtube.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "circuitscircuitkorea": {
+        "https://wcs.starcraft2.com/en-us": {
+            "used": 17, 
+            "word": 1
+        }
+    }, 
+    "class": {
+        "http://blizzard.com": {
+            "used": 34, 
+            "word": 2
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 522
+        }, 
+        "https://us.battle.net/d3": {
+            "used": 27, 
+            "word": 3
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 1097
+        }, 
+        "https://www.youtube.com/watch": {
+            "used": 12, 
+            "word": 1
+        }
+    }, 
+    "classic": {
+        "https://battle.net/shop": {
+            "used": 29, 
+            "word": 1
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }, 
+        "https://overwatchleague.com/en-us": {
+            "used": 29, 
+            "word": 1
+        }, 
+        "https://us.battle.net/account/download": {
+            "used": 12, 
+            "word": 2
+        }, 
+        "https://us.battle.net/forums": {
+            "used": 18, 
+            "word": 1
+        }, 
+        "https://us.battle.net/games/classic": {
+            "used": 18, 
+            "word": 4
+        }, 
+        "https://us.battle.net/sc2": {
+            "used": 27, 
+            "word": 1
+        }, 
+        "https://us.battle.net/support": {
+            "used": 37, 
+            "word": 1
+        }
+    }, 
+    "clear": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 2
+        }, 
+        "https://blizzard.gamespress.com": {
+            "used": 4, 
+            "word": 1
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 2
+        }
+    }, 
+    "click": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 3
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 2
+        }, 
+        "https://us.battle.net/d3": {
+            "used": 27, 
+            "word": 1
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }
+    }, 
+    "client": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }, 
+        "https://us.battle.net/account/download": {
+            "used": 12, 
+            "word": 10
+        }
+    }, 
+    "cluster": {
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 25, 
+            "word": 1
+        }
+    }, 
+    "codes": {
+        "https://us.battle.net/account/download": {
+            "used": 12, 
+            "word": 1
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "collegiate": {
+        "https://us.battle.net/hearthstone/en-us/esports": {
+            "used": 16, 
+            "word": 1
+        }
+    }, 
+    "columns": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "combat": {
+        "http://blizz.ly/OWU2017": {
+            "used": 2, 
+            "word": 2
+        }, 
+        "https://us.battle.net/sc2": {
+            "used": 27, 
+            "word": 1
+        }
+    }, 
+    "coming": {
+        "https://us.battle.net/d3": {
+            "used": 27, 
+            "word": 3
+        }, 
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 1
+        }, 
+        "https://www.youtube.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "command": {
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 1
+        }
+    }, 
+    "commander": {
+        "https://us.battle.net/sc2": {
+            "used": 27, 
+            "word": 5
+        }
+    }, 
+    "commencing": {
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 8, 
+            "word": 2
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "communications": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 5
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 9, 
+            "word": 1
+        }
+    }, 
+    "compete": {
+        "http://blizz.ly/OWC2017": {
+            "used": 2, 
+            "word": 1
+        }, 
+        "https://overwatchleague.com/en-us": {
+            "used": 29, 
+            "word": 1
+        }, 
+        "https://playoverwatch.com/en-us/worldcup": {
+            "used": 23, 
+            "word": 1
+        }, 
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "complete": {
+        "https://blizzard.gamespress.com": {
+            "used": 4, 
+            "word": 1
+        }, 
+        "https://playoverwatch.com": {
+            "used": 38, 
+            "word": 2
+        }, 
+        "https://playoverwatch.com/en-us": {
+            "used": 0, 
+            "word": 2
+        }, 
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 8, 
+            "word": 1
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }, 
+        "https://www.youtube.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "components": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 2
+        }
+    }, 
+    "concepts": {
+        "https://us.battle.net/heroes": {
+            "used": 12, 
+            "word": 1
+        }
+    }, 
+    "conclusion": {
+        "http://blizz.ly/OWC2017": {
+            "used": 2, 
+            "word": 1
+        }, 
+        "https://playoverwatch.com/en-us/worldcup": {
+            "used": 23, 
+            "word": 1
+        }
+    }, 
+    "confirm": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 12
+        }
+    }, 
+    "connect": {
+        "http://blizz.ly/OWC2017": {
+            "used": 2, 
+            "word": 2
+        }, 
+        "https://playoverwatch.com/en-us/worldcup": {
+            "used": 23, 
+            "word": 2
+        }, 
+        "https://us.battle.net/games/classic": {
+            "used": 18, 
+            "word": 2
+        }
+    }, 
+    "connected": {
+        "http://blizz.ly/OWC2017": {
+            "used": 2, 
+            "word": 1
+        }, 
+        "http://blizz.ly/OWU2017": {
+            "used": 2, 
+            "word": 1
+        }, 
+        "http://blizzard.com": {
+            "used": 34, 
+            "word": 1
+        }, 
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }, 
+        "http://www.jp.square-enix.com/overwatch": {
+            "used": 3, 
+            "word": 1
+        }, 
+        "https://playoverwatch.com": {
+            "used": 38, 
+            "word": 1
+        }, 
+        "https://playoverwatch.com/en-us": {
+            "used": 0, 
+            "word": 1
+        }, 
+        "https://playoverwatch.com/en-us/worldcup": {
+            "used": 23, 
+            "word": 1
+        }, 
+        "https://us.battle.net/account/download": {
+            "used": 12, 
+            "word": 1
+        }, 
+        "https://us.battle.net/d3": {
+            "used": 27, 
+            "word": 1
+        }, 
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 1
+        }, 
+        "https://us.battle.net/hearthstone/en-us/esports": {
+            "used": 16, 
+            "word": 1
+        }, 
+        "https://us.battle.net/heroes": {
+            "used": 12, 
+            "word": 1
+        }, 
+        "https://us.battle.net/sc2": {
+            "used": 27, 
+            "word": 1
+        }
+    }, 
+    "conqueror": {
+        "https://battle.net/shop": {
+            "used": 29, 
+            "word": 1
+        }
+    }, 
+    "considered": {
+        "https://careers.blizzard.com": {
+            "used": 9, 
+            "word": 1
+        }
+    }, 
+    "constrained": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }
+    }, 
+    "consumer": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 3
+        }
+    }, 
+    "container": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 11
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 11
+        }
+    }, 
+    "control": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 9
+        }, 
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 5
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 46
+        }
+    }, 
+    "copying": {
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }, 
+    "counter": {
+        "https://careers.blizzard.com": {
+            "used": 8, 
+            "word": 1
+        }, 
+        "https://us.heroesofthestorm.com/esports/en-us": {
+            "used": 13, 
+            "word": 1
+        }
+    }, 
+    "covert": {
+        "https://battle.net/shop": {
+            "used": 29, 
+            "word": 1
+        }, 
+        "https://blizzard.gamespress.com": {
+            "used": 4, 
+            "word": 1
+        }
+    }, 
+    "crazy": {
+        "https://us.battle.net/hearthstone": {
+            "used": 27, 
+            "word": 1
+        }
+    }, 
+    "cross": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 6
+        }
+    }, 
+    "customer": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 8
+        }, 
+        "https://us.battle.net/support": {
+            "used": 37, 
+            "word": 1
+        }
+    }, 
+    "customers": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 3
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 1
+        }
+    }
+}

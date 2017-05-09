@@ -1,0 +1,26 @@
+{
+    "talk": {
+        "https://us.battle.net/games/classic": {
+            "used": 18, 
+            "word": 1
+        }
+    }, 
+    "termination": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }
+    }, 
+    "thats": {
+        "https://www.youtube.com/watch": {
+            "used": 12, 
+            "word": 1
+        }
+    }, 
+    "tubes": {
+        "https://dev.battle.net": {
+            "used": 4, 
+            "word": 1
+        }
+    }
+}

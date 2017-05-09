@@ -1,0 +1,30 @@
+{
+    "requires": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }
+    }, 
+    "reserve": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 3
+        }
+    }, 
+    "responded": {
+        "http://us.blizzard.com/company/about/privacy.html": {
+            "used": 24, 
+            "word": 1
+        }
+    }, 
+    "reward": {
+        "https://www.facebook.com/PlayOverwatch": {
+            "used": 8, 
+            "word": 4
+        }, 
+        "https://www.twitter.com/PlayOverwatch": {
+            "used": 5, 
+            "word": 2
+        }
+    }
+}
